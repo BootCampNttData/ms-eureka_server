@@ -1,2 +1,2 @@
-# ms-eureka_server
+# ms-eurekaserver
 MS Eureka Server
